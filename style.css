@@ -11,7 +11,7 @@ body{
     text-align: center;
     font-family: 'Roboto Slab', serif;
     color: antiquewhite;
-    margin-top: 20px;
+    margin-top: 5px;
     font-size: 50px;
 }
 .container{
@@ -83,7 +83,7 @@ body{
 table{
     position: absolute;
     transform: translate(-50%,-80%);
-    top: 785px;
+    top: 720px;
     left: 50%;
 }
 th,td{
